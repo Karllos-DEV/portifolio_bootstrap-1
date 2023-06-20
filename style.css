@@ -1,0 +1,29 @@
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: #352e2e;
+}
+footer p{
+ height: 10vh;
+}
+.foto{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    margin: 0 auto;
+}
+h5{
+    color: rgb(0, 0, 0);
+}
+p{
+    color: black;
+}
+h2,h3{
+    border-top-style: dotted;
+    border-color: black;
+}
+h1{
+    color: purple;
+    border: purple solid 2px;
+    border-radius: 10px;
+}
